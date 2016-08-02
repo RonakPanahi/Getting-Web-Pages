@@ -43,7 +43,7 @@ public class URLopen  {
 
 			
 
-			String fileName = "E:\\UIS\\new.html";
+			String fileName = "new.html";
 			File file = new File(fileName);
 
 			if (!file.exists()) {
