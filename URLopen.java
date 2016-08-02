@@ -1,3 +1,9 @@
+/**
+ * AUTHOR: RONAK PANAHI
+ * Date: November 2015
+ * Problem: Getting the desired web pages
+ */
+
 import java.net.*;
 import java.util.Scanner;
 
